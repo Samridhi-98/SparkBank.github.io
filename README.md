@@ -11,10 +11,9 @@ A simple static web banking application to transfer money among friends and fami
 </ul>
 
 **Link**
+- Demo Link: https://samridhi-98.github.io/sparkbank/  
 
-Demo Link: https://samridhi-98.github.io/sparkbank/
-<br>
-Youtube: https://youtu.be/5JlCSZtBtt8
+- Youtube: https://youtu.be/5JlCSZtBtt8
 
 <br>
 
